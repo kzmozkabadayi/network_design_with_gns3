@@ -1,0 +1,10 @@
+The content of the project continues as follows:
+-Our company has 3 buildings. These buildings include factory building, office building and branch building. 
+-We need to provide a network in each of these buildings. 
+-First of all, our factory building has 3 floors. 8 Ethernet ports are required on each level. 
+-The office building has 2 floors and we need to provide 2 Ethernet to them.
+-I did this job with a router.
+-Finally, a connection to the remote branch building is required.
+-But since it is far away, I provided it with modems and created it.
+-After creating this design, I pinged between computers to test connections. 
+-I have shared them in the attachment.
